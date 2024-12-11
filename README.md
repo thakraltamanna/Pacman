@@ -1,4 +1,5 @@
 # Pacman - Autonomous Robot Finding <br>
+### Author: Tamanna Thakral
 ## Project Overview
 This project implements a navigation system for an autonomous robot (inspired by Pac-Man) to traverse a 2D grid-based maze. The robot must avoid obstacles and find a valid path to its destination using a stack-based algorithm.
 
@@ -30,7 +31,6 @@ Python 3.6+
 * navigator.py: Contains the Navigator class implementation.
 * stack.py: Contains the Stack class implementation.
 * exception.py: Defines exceptions for pathfinding errors.
-main.py: Test and debug your implementation.
 ## How to Run
 1. Clone the repository.
 2. Set up your maze and obstacles in main.py.
